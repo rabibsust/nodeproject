@@ -1,0 +1,30 @@
+{
+  "name": "@rabibsust/nodeproject",
+  "version": "1.0.0",
+  "description": "This is the freecodecamp project. My first project using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabibsust/nodeproject.git"
+  },
+  "keywords": [
+    "node.js",
+    "freecodecamp",
+    "rabibsust",
+    "rabib",
+    "test",
+    "project"
+  ],
+  "author": "rabibsust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabibsust/nodeproject/issues"
+  },
+  "homepage": "https://github.com/rabibsust/nodeproject#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
